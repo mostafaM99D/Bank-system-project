@@ -1,5 +1,11 @@
 # Bank System
 
+![GitHub repo size](https://img.shields.io/github/repo-size/mostafaM99D/bank-system)
+![GitHub contributors](https://img.shields.io/github/contributors/mostafaM99D/bank-system)
+![GitHub stars](https://img.shields.io/github/stars/mostafaM99D/bank-system?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mostafaM99D/bank-system?style=social)
+![License](https://img.shields.io/github/license/mostafaM99D/bank-system)
+
 A simple Bank System application designed to manage customer accounts, handle transactions, and provide basic banking functionalities.
 
 ## Features
@@ -12,9 +18,9 @@ A simple Bank System application designed to manage customer accounts, handle tr
 
 ## Technologies Used
 
-- **Backend:** [e.g., Python, Java, .NET, etc.]
-- **Frontend:** [e.g., HTML, CSS, JavaScript, etc.]
-- **Database:** [e.g., MySQL, SQLite, PostgreSQL, etc.]
+- **Backend:** [cpp, file sys, read, write]
+- **Frontend:** [console app]
+- **Database:** [file system befor learn database]
 
 ## Installation
 
