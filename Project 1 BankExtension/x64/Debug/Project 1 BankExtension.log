@@ -1,0 +1,8 @@
+﻿  Project 1 BankExtension.cpp
+D:\Programming\واجبات البرمجه\4- Algorithms And ProblemSolveing Level  4\Project 1 BankExtension\Project 1 BankExtension\Project 1 BankExtension.cpp(57,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Programming\واجبات البرمجه\4- Algorithms And ProblemSolveing Level  4\Project 1 BankExtension\Project 1 BankExtension\Project 1 BankExtension.cpp(638): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+D:\Programming\واجبات البرمجه\4- Algorithms And ProblemSolveing Level  4\Project 1 BankExtension\Project 1 BankExtension\Project 1 BankExtension.cpp(701): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+D:\Programming\واجبات البرمجه\4- Algorithms And ProblemSolveing Level  4\Project 1 BankExtension\Project 1 BankExtension\Project 1 BankExtension.cpp(753): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+D:\Programming\واجبات البرمجه\4- Algorithms And ProblemSolveing Level  4\Project 1 BankExtension\Project 1 BankExtension\Project 1 BankExtension.cpp(731): warning C4715: 'UpdateUserByUsername': not all control paths return a value
+D:\Programming\واجبات البرمجه\4- Algorithms And ProblemSolveing Level  4\Project 1 BankExtension\Project 1 BankExtension\Project 1 BankExtension.cpp(668): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+  Project 1 BankExtension.vcxproj -> D:\Programming\واجبات البرمجه\4- Algorithms And ProblemSolveing Level  4\Project 1 BankExtension\x64\Debug\Project 1 BankExtension.exe
